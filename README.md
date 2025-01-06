@@ -12,8 +12,7 @@
 </div>
 
 #
-
-### Hi! My name is Timur, but my nickname is onexgol. I am 14 years old, I develop projects in Python and C++. I love Olympiad programming, so I often solve problems with LeetCode and participate in Codeforces contests.
+.
 
 ###
 
