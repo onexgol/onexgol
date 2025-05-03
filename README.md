@@ -1,4 +1,4 @@
-## onexgol
-#### Machine learning engineer / Data Scientist
+## Onexgol
+#### C/C++ programmer
 
 ![wave_animation_dark](wave_animation_dark.svg)
