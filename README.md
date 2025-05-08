@@ -1,6 +1,8 @@
 ## onexgol
 #### C/C++ programmer
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onexgol&hide_progress=true)
+
 ![wave_animation_dark](wave_animation_dark.svg)
 
 <h3 align="left">Connect with me:</h3>
