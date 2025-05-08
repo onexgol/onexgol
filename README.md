@@ -1,6 +1,8 @@
 ## onexgol
 #### Python/C++ programmer
 
+## I'm currently working by [secret project].
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onexgol&hide_progress=true)
 
 ![wave_animation_dark](wave_animation_dark.svg)
