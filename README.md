@@ -1,5 +1,5 @@
 ## onexgol
-#### C/C++ programmer
+#### Python/C++ programmer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onexgol&hide_progress=true)
 
